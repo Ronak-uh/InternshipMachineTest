@@ -14,7 +14,7 @@
 
 ## How to Run
 1. Clone the repository to your local machine:
-   `git clone github.com/Ronak-uh/MachineTest`
+   `git clone https://github.com/Ronak-uh/InternshipMachineTest.git`
 2. Open the `InternshipMachineTest.xcodeproj` file in Xcode.
 3. No dependency sync is required as there are no external packages.
 4. Select a Simulator (e.g., iPhone 15 or iPhone 16 Pro) from the device dropdown at the top.
